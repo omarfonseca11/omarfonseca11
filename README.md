@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Perfil Profesional
-Ingeniero de software y Tecnólogo certificado en Análisis y Desarrollo de Software con una sólida estructura mental orientada a la **mejura continua, la escalabilidad y las buenas prácticas de desarrollo**. Mi enfoque profesional se centra en la intersección del desarrollo backend robusto y la ingeniería de datos, creando soluciones tecnológicas que optimizan la infraestructura operativa de las empresas.
+Ingeniero de software y Tecnólogo certificado en Análisis y Desarrollo de Software con una sólida estructura, orientada a la **mejora continua, la escalabilidad y las buenas prácticas de desarrollo**. Mi enfoque profesional se centra en la intersección del desarrollo backend robusto y la ingeniería de datos, creando soluciones tecnológicas que optimizan la infraestructura operativa de las empresas.
 
 Cuenta con experiencia en optimización de procesos dentro de entornos corporativos de gran escala como **DIACO S.A.**, donde apliqué metodologías de excelencia operacional para el análisis de flujos de trabajo, logrando una **reducción del 35% en los tiempos de entrega de informes clave e información estratégica** para la toma de decisiones de la alta gerencia mediante la automatización de procesos y despliegue de soluciones analíticas.
 
