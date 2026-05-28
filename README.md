@@ -1,4 +1,11 @@
-![Tech Banner](https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=2000&auto=format&fit=crop)
+<table width="100%">
+  <tr>
+    <td bgcolor="#0b132b" align="center" style="padding: 30px;">
+      <h1 align="center" style="color: #ffffff; font-family: 'Segoe UI', sans-serif; font-size: 35px; margin: 0;">OMAR YESID FONSECA QUIROGA</h1>
+      <p align="center" style="color: #48cae4; font-size: 18px; margin: 5px 0 0 0;">Software Engineer | Data Analyst</p>
+    </td>
+  </tr>
+</table>
 
 # 👨‍💻 Omar Yesid Fonseca Quiroga
 ### **Software Engineer | Data Analyst | Python Developer**
