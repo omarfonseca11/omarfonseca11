@@ -1,58 +1,55 @@
+![Banner de Arquitectura de Software](https://capsule-render.vercel.app/type=waving&color=001f3f&height=200&section=header&text=Omar%20Yesid%20Fonseca&fontSize=45&fontColor=ffffff&animation=twinkling)
+
 # 👨‍💻 Omar Yesid Fonseca Quiroga
-### Software Architect | Data Engineer | AI Automation Specialist
-**Transforming Complex Regulations into Scalable Digital Assets**
+### **Software Engineer | Data Analyst | Python Developer**
+*Especialista en Automatización de Procesos, Arquitectura de Software y Pipelines de Datos (ETL)*
 
 ---
 
-## 🚀 Professional Profile
-[cite_start]Passionate **Software Engineer** (80% completed at Politécnico Grancolombiano) [cite: 7, 41] [cite_start]and **Certified Technologist** in Analysis and Software Development[cite: 42, 72]. Expert in building high-performance backends and automated tax compliance systems. My focus is the intersection of **Clean Architecture**, **Data Intelligence**, and **Regulatory Compliance (RegTech)**.
+## 🚀 Perfil Profesional
+Ingeniero de software y Tecnólogo certificado en Análisis y Desarrollo de Software con una sólida estructura mental orientada a la **mejura continua, la escalabilidad y las buenas prácticas de desarrollo**. Mi enfoque profesional se centra en la intersección del desarrollo backend robusto y la ingeniería de datos, creando soluciones tecnológicas que optimizan la infraestructura operativa de las empresas.
 
-[cite_start]Proven track record at **DIACO S.A.** (Operational Excellence) [cite: 8, 12][cite_start], where I optimized management reporting by **35%** using Power BI and Python automation[cite: 14, 15].
+Cuenta con experiencia en optimización de procesos dentro de entornos corporativos de gran escala como **DIACO S.A.**, donde apliqué metodologías de excelencia operacional para el análisis de flujos de trabajo, logrando una **reducción del 35% en los tiempos de entrega de informes clave e información estratégica** para la toma de decisiones de la alta gerencia mediante la automatización de procesos y despliegue de soluciones analíticas.
 
----
-
-## 🛠 Tech Stack & Mastered Technologies
-
-### 🏗️ Software Architecture & Backend
-- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
-- **Frameworks:** ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-- [cite_start]**Design:** Clean Code, SOLID Principles, MVC, RESTful APIs, JWT Authentication[cite: 29, 34, 37].
-
-### 📊 Data Engineering & AI
-- **Analysis:** ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-- **Databases:** ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-- [cite_start]**IA Focus:** Applied IA for productivity, ETL processes, and Intelligent Document Processing (IDP)[cite: 10, 37, 50].
-
-### 🔐 Infrastructure & Security
-- **DevOps:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-- [cite_start]**Security:** Google Professional Certificate in Cybersecurity (Network Security, Linux, SQL)[cite: 49, 116].
+Destaco por una **alta velocidad de aprendizaje, adaptabilidad volátil y resiliencia técnica**: poseo la fundamentación conceptual y lógica necesaria para dominar e implementar nuevas tecnologías con agilidad, garantizando entregas de software estables, alineadas a la arquitectura limpia y con una comunicación asertiva impecable hacia el equipo de trabajo.
 
 ---
 
-## 📈 Impact & Vision 2026 - 2040
-- **Operational Excellence:** Redefining B2B processes through automation.
-- **RegTech Leadership:** Specialized in DIAN Resolution 228 (Colombia) and OECD international standards.
-- **Scalability:** Architecting systems designed for multi-country deployment and high availability.
+## 🛠️ Ecosistema Técnico & Competencias
 
-| Pillar | Focus | Target ROI |
-| :--- | :--- | :--- |
-| **Data Integrity** | Exploratory Data Analysis (EDA) | Decision Making Accuracy |
-| **Process Automation** | Python-driven workflows | 30%+ Resource Optimization |
-| **Cyber-Resilience** | Threat Detection & Mitigation | Enterprise Security |
+### 🏗️ Desarrollo de Software & Arquitectura Backend
+- **Lenguajes de Programación:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- **Bases de Datos & Estructuras:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+- **Frameworks & Ecosistema:** ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+- **Estándares de Ingeniería:** Aplicación de Arquitectura Limpia, Principios SOLID, Diseño de APIs RESTful robustas y manejo de software escalable.
 
----
+### 📊 Ingeniería de Datos, ETL & Analytics
+- **Procesamiento de Datos:** Construcción e implementación de pipelines de datos y procesos **ETL** avanzados para la extracción, limpieza y transformación de grandes volúmenes de información corporativa.
+- **Visualización & Gobierno de Datos:** ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=microsoftpowerbi&logoColor=black) | Modelado de datos en Excel Avanzado para auditoría operativa.
+- **Inteligencia de Negocio:** Generación y automatización de reportes analíticos de alta fidelidad, asegurando la integridad de la data y la entrega oportuna de KPIs.
 
-## 🏆 Key Achievements & Certifications
-- [cite_start]**Google:** Professional Certificate in Cybersecurity[cite: 49, 116].
-- [cite_start]**Universidad de los Andes:** Web Front-End Development (HTML, CSS, JS)[cite: 53, 132].
-- [cite_start]**SENA:** Advanced Python for Data Analysis[cite: 57, 89].
-- [cite_start]**Academic Merit:** Full Stack CRUD Project (React/MongoDB) adopted as a learning tool in ADSO-SENA[cite: 29, 30].
+### 🔐 Infraestructura, DevOps & Ciberseguridad
+- **Control de Versiones:** ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- **Seguridad de la Información:** Fundamentos robustos en Ciberseguridad industrial, redes seguras y mitigación de riesgos operativos en el software.
 
 ---
 
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-yesid-fonseca-quiroga-773642246)
+## 🎯 Directrices de Valor Empresarial
+*   **Código Limpio (Clean Code):** Desarrollo orientado a la mantenibilidad a largo plazo, evitando deuda técnica.
+*   **Orientación a Resultados:** El software debe traducirse en retorno de inversión (ROI), ahorro de tiempo o mitigación de errores humanos para el negocio.
+*   **Sinergia Colectiva:** Documentación técnica impecable y flujos de trabajo claros para facilitar la integración en equipos ágiles de alto rendimiento.
+
+---
+
+## 🏆 Certificaciones & Hitos Técnicos
+*   **Título Profesional:** Tecnólogo en Análisis y Desarrollo de Software.
+*   **Google Professional Certificate:** Fundamentos de Ciberseguridad (Seguridad de Redes, Linux, Automatización).
+*   **Universidad de los Andes:** Ingeniería Web Front-End Core (HTML, CSS, JavaScript).
+*   **SENA / Programas Estatales:** Análisis Exploratorio de Datos (EDA) en Python & Bootcamp de Inteligencia Artificial (159 horas).
+*   **Desarrollo Destacado:** Arquitectura de un Sistema de Gestión de Clientes Empresarial (Stack MERN) avalado con calificación sobresaliente por su calidad de código.
+
+---
+
+## 📫 Entorno de Contacto Profesional
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarfonseca)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaryesidfonseca1996@gmail.com)
-
----
-*“Architecture is not about the software, it’s about the people and the business value it creates.”*
