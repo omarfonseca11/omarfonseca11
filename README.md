@@ -1,15 +1,6 @@
-<table width="100%">
-  <tr>
-    <td bgcolor="#0b132b" align="center" style="padding: 30px;">
-      <h1 align="center" style="color: #ffffff; font-family: 'Segoe UI', sans-serif; font-size: 35px; margin: 0;">OMAR YESID FONSECA QUIROGA</h1>
-      <p align="center" style="color: #48cae4; font-size: 18px; margin: 5px 0 0 0;">Software Engineer | Data Analyst</p>
-    </td>
-  </tr>
-</table>
-
 # 👨‍💻 Omar Yesid Fonseca Quiroga
 ### **Software Engineer | Data Analyst | Python Developer**
-*Especialista en Automatización de Procesos, Arquitectura de Software y Pipelines de Datos (ETL)*
+*Desarrollandor en Automatización de Procesos, Arquitectura de Software y Pipelines de Datos (ETL)*
 
 ---
 
