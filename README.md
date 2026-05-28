@@ -1,4 +1,4 @@
-![Banner de Arquitectura de Software](https://capsule-render.vercel.app/type=waving&color=001f3f&height=200&section=header&text=Omar%20Yesid%20Fonseca&fontSize=45&fontColor=ffffff&animation=twinkling)
+![Tech Banner](https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=2000&auto=format&fit=crop)
 
 # 👨‍💻 Omar Yesid Fonseca Quiroga
 ### **Software Engineer | Data Analyst | Python Developer**
